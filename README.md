@@ -32,10 +32,10 @@
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
-![Скриншот-1](https://github.com/namorbor/12-06-hw/img/1.jpg)
+![Скриншот-1](https://github.com/namorbor/12-06-hw/blob/main/img/1.jpg)
 
-![Скриншот-2](https://github.com/namorbor/12-06-hw/img/1.jpg)
+![Скриншот-2](https://github.com/namorbor/12-06-hw/blob/main/img/2.jpg)
 
-![Скриншот-3](https://github.com/namorbor/12-06-hw/img/1.jpg)
+![Скриншот-3](https://github.com/namorbor/12-06-hw/blob/main/img/3.jpg)
 
-![Скриншот-4](https://github.com/namorbor/12-06-hw/img/1.jpg)
+![Скриншот-4](https://github.com/namorbor/12-06-hw/blob/main/img/4.jpg)
